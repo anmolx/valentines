@@ -91,7 +91,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Congratulations! You have completed the game.
+             Congratulations! Topper ji 🥰 You have completed the game.
           </motion.h2>
         )}
         {step === 1 && (
@@ -103,7 +103,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            I have a surprise for you!
+            I have a surprise for you bubu 😘!
           </motion.h2>
         )}
         {step === 2 && (
@@ -132,7 +132,7 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Will you be my Valentine?
+              Will you be my Valentine bubu ❤️ ?
             </h2>
             <Image
               src="/sad_hamster.png"
@@ -175,8 +175,9 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Thank you for accepting, I love you! 💕
-            <p className="text-sm mt-4">For more information, write me!!! 💌</p>
+           Thank you for accepting, I love you my puchkiii !!! 💕 <br />
+
+            <p className="text-sm mt-4"> Low efforts dene ke liye maafi madam ji 😞🙏</p>
             <Image
               src="/hamster_jumping.gif"
               alt="Hamster Feliz"
